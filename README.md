@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hola 👋, Soy Daniel Hernández</h1>
 <h3 align="center">Autodidacta/Docente/freelancer/Dev</h3>
 
@@ -11,7 +7,7 @@
 
 - Interesado en aprender **Ciencia de datos, Bash, Linux, Python**
 
-- Quiero desarrollar web: **HTMLS5, CSS3, JS**
+- Quiero desarrollar web: **HTML5, CSS3, JS**
 
 - En Linux aprender: **Bash y uso generar del SO**
 
